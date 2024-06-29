@@ -16,6 +16,9 @@ PD: Solo se realizarán los tests con números enteros
 Se deberá testear la función con Vitest
 ## Casos a testear:
 Dado 2 ángulos : 30, 60 -> se espera 90
+
 Dado 2 ángulos : 60, 60 -> se espera 60
+
 Dado 2 ángulos : 43, 78 -> se espera 59
+
 Dado 2 ángulos : 10, 20-> se espera 150
