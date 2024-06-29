@@ -1,0 +1,22 @@
+{
+  "name": "js---third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "main": "src/triangle.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miharu669/JS---Third-angle-of-the-triangle.git"
+  },
+  "author": "vero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miharu669/JS---Third-angle-of-the-triangle/issues"
+  },
+  "homepage": "https://github.com/Miharu669/JS---Third-angle-of-the-triangle#readme",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
